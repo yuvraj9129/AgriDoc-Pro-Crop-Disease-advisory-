@@ -44,10 +44,13 @@ python -m streamlit run app.py
 
 ## Project Output
 
-### Disease Detection Example
+### Example 1
 ![Crop Disease Detection](./images/output1.png)
 
-### Advisory Example
-![Advisory System](./images/output2.png)
+### Example 2
+![Crop Disease Detection](./images/output2.png)
+
+### Example 3
+![Crop Disease Detection](./images/output3.png)
 
 
