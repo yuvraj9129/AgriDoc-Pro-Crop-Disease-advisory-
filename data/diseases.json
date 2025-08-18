@@ -1,0 +1,92 @@
+{
+  "Healthy": {
+    "name": "Healthy Leaf",
+    "summary": "Leaf appears largely healthy. Maintain good agronomic practices.",
+    "symptoms": [
+      "Uniform green color",
+      "No significant spots or powdery patches"
+    ],
+    "management": [
+      "Maintain balanced fertilization based on soil test",
+      "Water at the base, avoid prolonged leaf wetness",
+      "Scout weekly to catch early signs of issues"
+    ],
+    "organic": [
+      "Compost and mulch to improve soil health"
+    ],
+    "chemicals": []
+  },
+  "Leaf Spot": {
+    "name": "Leaf Spot Complex",
+    "summary": "Circular to irregular brown/black lesions, sometimes with yellow halo. Common in many crops.",
+    "symptoms": [
+      "Small dark spots that may enlarge or coalesce",
+      "Yellowing around lesions",
+      "Severe cases cause premature leaf drop"
+    ],
+    "management": [
+      "Remove and destroy heavily infected leaves",
+      "Avoid overhead irrigation; ensure good airflow",
+      "Rotate crops; use disease-free seed/seedlings"
+    ],
+    "organic": [
+      "Apply neem oil (0.5–1%) at 7–10 day intervals",
+      "Use baking soda + horticultural oil sprays as protectants"
+    ],
+    "chemicals": [
+      "Copper oxychloride or copper hydroxide as protectant",
+      "Chlorothalonil, mancozeb as per label rates"
+    ],
+    "per_crop": {
+      "Tomato": {
+        "management": [
+          "Stake/prune to improve airflow",
+          "Remove lower leaves touching soil"
+        ]
+      }
+    }
+  },
+  "Powdery Mildew": {
+    "name": "Powdery Mildew",
+    "summary": "White, powdery fungal growth on leaf surfaces, thrives in humid but not necessarily wet conditions.",
+    "symptoms": [
+      "White powder-like patches on upper leaf surface",
+      "Distorted or stunted growth in severe cases"
+    ],
+    "management": [
+      "Remove infected leaves to reduce inoculum",
+      "Improve air circulation; avoid dense canopy",
+      "Apply protectants at first sign"
+    ],
+    "organic": [
+      "Sulfur dusting/sprays (avoid in high heat)",
+      "Potassium bicarbonate sprays"
+    ],
+    "chemicals": [
+      "Myclobutanil, tebuconazole, trifloxystrobin as per label"
+    ]
+  },
+  "Nutrient Deficiency": {
+    "name": "Likely Nutrient Imbalance",
+    "summary": "General yellowing or interveinal chlorosis may indicate N, Mg, or Fe deficiency.",
+    "symptoms": [
+      "Uniform or interveinal yellowing",
+      "Older leaves yellow first (often N/Mg), younger leaves (often Fe)"
+    ],
+    "management": [
+      "Conduct soil test to confirm deficiencies",
+      "Apply balanced fertilizer; ensure proper pH",
+      "Avoid overwatering which can induce nutrient lockout"
+    ],
+    "organic": [
+      "Compost, well-rotted manure, fish emulsion",
+      "Foliar seaweed extracts as supplement"
+    ],
+    "chemicals": [
+      "Nitrogen top-dress (urea) or foliar N",
+      "Chelated micronutrients if confirmed"
+    ]
+  }
+}
+
+
