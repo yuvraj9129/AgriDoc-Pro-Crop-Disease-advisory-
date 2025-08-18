@@ -1,6 +1,9 @@
-# AgriDoc Pro (Crop disease + advisory)
+# AgriDoc Pro (Crop disease + advisory) 
 
 AgriDoc Pro is a lightweight, private-by-default crop disease detector and advisory tool. It runs locally using a simple image heuristic to flag common leaf issues (healthy, leaf spot, powdery mildew, nutrient deficiency) and shows actionable guidance.
+
+
+🚀 **Live Demo:** [Click here to try AgriDoc Pro](https://lrxjwmskn2exgqbuq6hic9.streamlit.app/)
 
 ## Features
 - Upload or capture leaf photos
