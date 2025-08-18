@@ -40,4 +40,14 @@ python -m streamlit run app.py
 - This is a starter app designed to be easy to run and extend. Replace the heuristic with an ML model later by editing `agri/disease_model.py`.
 - All analysis is local; no images are uploaded anywhere.
 
+# AgriDoc Pro 🌱
+
+## Project Output
+
+### Disease Detection Example
+![Crop Disease Detection](./images/output1.png)
+
+### Advisory Example
+![Advisory System](./images/output2.png)
+
 
